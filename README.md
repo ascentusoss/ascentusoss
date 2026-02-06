@@ -4,12 +4,8 @@
 
 <div align="center">
 
-<a href="https://ascentus-oss.vercel.app/api/github-stats/ascentusoss?theme=dark">
-  <img src="https://ascentus-oss.vercel.app/api/github-stats/ascentusoss?theme=dark" width="400" alt="GitHub Stats">
-</a>
-<a href="https://ascentus-oss.vercel.app/api/github-langs/ascentus0ss?theme=dark">
-  <img src="https://ascentus-oss.vercel.app/api/github-langs/ascentusoss?theme=dark" width="400" alt="GitHub Top Languages">
-</a>
+![GitHub Stats](https://ascentus-oss.vercel.app/api/github-stats/ascentusoss?width=400&height=300&theme=neon)
+![GitHub Top Languages](https://ascentus-oss.vercel.app/api/github-langs/ascentusoss?width=400&height=300&theme=neon)
 
 </div>
 
