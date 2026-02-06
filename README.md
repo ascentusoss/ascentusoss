@@ -12,4 +12,17 @@
 </a>
 
 </div>
+
 </div>
+
+---
+
+<div align="center">
+
+[![WhatsApp](https://ascentus-oss.vercel.app/api/svg/social/social-whatsapp.svg)](https://wa.me/5537998553430)
+[![Gmail](https://ascentus-oss.vercel.app/api/svg/social/social-gmail.svg)](mailto:ossmoralus@gmail.com)
+
+</div>
+
+---
+
