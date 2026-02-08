@@ -5,6 +5,11 @@
 <div align="center">
 
 ![Visitantes](https://ascentus-oss.vercel.app/api/visitors/ascentusoss/badge.svg?label=visitantes)
+</div>
+
+<div align="center">
+  
+**Bom dia estalker. stalker trocado nao doi ne.**
 
 </div>
 
@@ -40,3 +45,4 @@
 #
 #
 #
+
