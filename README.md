@@ -1,6 +1,7 @@
 #
 #
-#
+
+![banner/capa-10.svg](https://ascentus-oss.vercel.app/api/svg/banner/capa-10.svg)
 
 <div align="center">
 
@@ -19,7 +20,7 @@
 
 # Olá! Sou o Italo.
 
-**Sou um desenvolvedor por hobby, um passatempo meu pra quando quero estravazar minhas loucurias. Vou tentar levar esse perfil um pouco mais a sério.**
+Sou um desenvolvedor por hobby, transformando código em válvula de escape para minhas ideias mais criativas. Chegou a hora de dar um upgrade nesse perfil e levá-lo um pouco mais a sério ou pelo menos fingir que estou tentando.
 
 ---
 
