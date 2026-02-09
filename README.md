@@ -34,10 +34,10 @@ Olá! Sou o **Italo**, um desenvolvedor por hobby transformando código em válv
 <div align="center">
 
 <a href="https://ascentus-oss.vercel.app">
-  <img src="https://ascentus-oss.vercel.app/api/github-stats/ascentusoss?theme=neon" width="400" alt="Estatísticas do GitHub">
+  <img src="https://ascentus-oss.vercel.app/api/github-stats/ascentusoss?theme=ocean" width="400" alt="Estatísticas do GitHub">
 </a>
 <a href="https://ascentus-oss.vercel.app">
-  <img src="https://ascentus-oss.vercel.app/api/github-langs/ascentusoss?theme=neon" width="400" alt="Linguagens mais utilizadas">
+  <img src="https://ascentus-oss.vercel.app/api/github-langs/ascentusoss?theme=ocean" width="400" alt="Linguagens mais utilizadas">
 </a>
 
 </div>
