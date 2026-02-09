@@ -9,9 +9,17 @@
 
 <div align="center">
   
-**Bom dia jovem**
+**Bem vindo jovem**
 
 </div>
+
+---
+
+<div align="center">
+
+# Olá! Sou o Italo.
+
+**Sou um desenvolvedor por hobby, um passatempo meu pra quando quero estravazar minhas loucurias. Vou tentar levar esse perfil um pouco mais a sério.**
 
 ---
 
