@@ -9,7 +9,7 @@
 
 <div align="center">
   
-**Bom dia stalker. stalker trocado nao doi, ne?**
+**Bom dia jovem**
 
 </div>
 
@@ -41,6 +41,12 @@
 
 
 </div>
+ 
+ <div align="center">
+ 
+ **Obrigado por visitar meu perfil.**
+
+ </div>
 
 #
 #
