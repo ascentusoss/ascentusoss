@@ -1,59 +1,108 @@
-#
-#
-
-![banner/capa-10.svg](https://ascentus-oss.vercel.app/api/svg/banner/capa-10.svg)
-
 <div align="center">
 
-![badges/decorativos/badge-entusiasta.svg](https://ascentus-oss.vercel.app/api/svg/badges/decorativos/badge-entusiasta.svg?width=180)
-![badges/decorativos/badge-full-stack.svg](https://ascentus-oss.vercel.app/api/svg/badges/decorativos/badge-full-stack.svg?width=180)
-![badges/decorativos/badge-ui-ux.svg](https://ascentus-oss.vercel.app/api/svg/badges/decorativos/badge-ui-ux.svg?width=180)
-![badges/decorativos/badge-devops.svg](https://ascentus-oss.vercel.app/api/svg/badges/decorativos/badge-devops.svg?width=180)
+![Banner](https://ascentus-oss.vercel.app/api/svg/banner/capa-10.svg)
 
 </div>
 
 ---
 
-<div align="center">
+## 👋 Bem-vindo ao meu perfil!
 
-**Bem vindo jovem**
+<div align="center">
 
 ![Visitantes](https://ascentus-oss.vercel.app/api/visitors/ascentusoss/badge.svg?label=stalker)
+
+</div>
+
+## 🧑‍💻 Sobre mim
+
+Olá! Sou o **Italo**, um desenvolvedor por hobby transformando código em válvula de escape para minhas loucurias. Acho que é hora de dar um upgrade nesse perfil e levá-lo um pouco mais a sério ou pelo menos fingir que estou tentando.
+
+<div align="center">
+
+![Badge Entusiasta](https://ascentus-oss.vercel.app/api/svg/badges/decorativos/badge-entusiasta.svg?width=180)
+![Badge Full Stack](https://ascentus-oss.vercel.app/api/svg/badges/decorativos/badge-full-stack.svg?width=180)
+![Badge UI/UX](https://ascentus-oss.vercel.app/api/svg/badges/decorativos/badge-ui-ux.svg?width=180)
+![Badge DevOps](https://ascentus-oss.vercel.app/api/svg/badges/decorativos/badge-devops.svg?width=180)
+
 </div>
 
 ---
 
-<div align="center">
-
-# Olá! Sou o Italo.
-
-Sou um desenvolvedor por hobby, transformando código em válvula de escape para minhas ideias mais criativas. Chegou a hora de dar um upgrade nesse perfil e levá-lo um pouco mais a sério ou pelo menos fingir que estou tentando.
-
----
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<a href="https://ascentus-oss.vercel.app"><img src="https://ascentus-oss.vercel.app/api/github-stats/ascentusoss?theme=neon" width="400">
+<a href="https://ascentus-oss.vercel.app">
+  <img src="https://ascentus-oss.vercel.app/api/github-stats/ascentusoss?theme=neon" width="400" alt="Estatísticas do GitHub">
 </a>
-<a href="https://ascentus-oss.vercel.app"><img src="https://ascentus-oss.vercel.app/api/github-langs/ascentusoss?theme=neon" width="400">
+<a href="https://ascentus-oss.vercel.app">
+  <img src="https://ascentus-oss.vercel.app/api/github-langs/ascentusoss?theme=neon" width="400" alt="Linguagens mais utilizadas">
 </a>
 
 </div>
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Frontend
+<div align="center">
+
+![HTML](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-html.svg)
+![CSS](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-css.svg)
+![Tailwind CSS](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-tailwind.svg)
+![JavaScript](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-javascript.svg)
+![TypeScript](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-typescript.svg)
+![React](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-react.svg)
+![Next.js](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-nextjs.svg)
+
+</div>
+
+### Backend
+<div align="center">
+
+![Express](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-express.svg)
+![PostgreSQL](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-postgresql.svg)
+![SQLite](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-sqlite.svg)
+![Supabase](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-supabase.svg)
+
+</div>
+
+### DevOps & Deploy
+<div align="center">
+
+![Vercel](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-vercel.svg)
+![Cloudflare](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-cloudflare.svg)
+![Fly.io](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-fly.svg)
+![Linux](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-linux.svg)
+
+</div>
+
+### Ferramentas de Desenvolvimento
+<div align="center">
+
+![Git](https://ascentus-oss.vercel.app/api/svg/badges/skills/ferramentas/badge-git.svg)
+![GitHub](https://ascentus-oss.vercel.app/api/svg/badges/skills/ferramentas/badge-github.svg)
+![GitHub Actions](https://ascentus-oss.vercel.app/api/svg/badges/skills/ferramentas/badge-github-actions.svg)
+
+</div>
+
+---
+
+## 📫 Contato
 
 <div align="center">
 
 [![Gmail](https://ascentus-oss.vercel.app/api/svg/social/social-gmail.svg)](mailto:ossmoralus@gmail.com)
 [![WhatsApp](https://ascentus-oss.vercel.app/api/svg/social/social-whatsapp.svg)](https://wa.me/5537998553430)
 
-
 </div>
 
- <div align="center">
+---
 
- **Obrigado por visitar meu perfil.**
+<div align="center">
 
- </div>
+**Obrigado por visitar meu perfil!**
 
-#
-#
-#
+</div>
