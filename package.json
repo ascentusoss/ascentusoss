@@ -1,0 +1,88 @@
+{
+  "name": "oraculo",
+  "version": "0.3.8",
+  "type": "module",
+  "description": "CLI modular para análise, diagnóstico e manutenção de projetos JavaScript/TypeScript",
+  "author": "Italo C Lopes",
+  "license": "MIT"
+
+
+  "scripts": {
+    "start": "oraculo",
+    "diagnosticar": "oraculo diagnosticar",
+    "formatar": "oraculo formatar --write",
+    "diagnosticar:json": "oraculo diagnosticar --json",
+    "reestruturar": "oraculo reestruturar",
+    "podar": "oraculo podar",
+    "fix-types": "oraculo fix-types",
+    "guardian": "oraculo guardian"
+  },
+  "keywords": [
+    "cli",
+    "code-analysis",
+    "linter",
+    "static-analysis",
+    "typescript",
+    "javascript",
+    "developer-tools",
+    "code-quality",
+    "architecture",
+    "refactoring",
+    "monorepo",
+    "project-analysis",
+    "technical-debt",
+    "devtools",
+    "maintenance",
+    "diagnostics",
+    "code-health"
+  ],
+
+  "dependencies": {
+    "@babel/parser": "^7.29.0",
+    "@babel/traverse": "^7.29.0",
+    "@babel/types": "^7.29.0",
+    "chalk": "^5.6.2",
+    "commander": "^14.0.3",
+    "css-tree": "^3.1.0",
+    "fast-xml-parser": "^5.3.5",
+    "htmlparser2": "^10.1.0",
+    "java-parser": "^3.0.1",
+    "micromatch": "^4.0.8",
+    "ora": "^9.3.0",
+    "oraculo": "file:oraculo-0.3.8.tgz",
+    "p-limit": "^7.3.0",
+    "xxhashjs": "^0.2.2"
+  },
+  "devDependencies": {
+    "@types/babel__traverse": "^7.28.0",
+    "@types/jest": "^30.0.0",
+    "@types/micromatch": "^4.0.10",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^25.2.2",
+    "@typescript-eslint/eslint-plugin": "^8.54.0",
+    "@typescript-eslint/parser": "^8.54.0",
+    "@vitest/coverage-istanbul": "^4.0.18",
+    "@vitest/coverage-v8": "^4.0.18",
+    "cross-env": "^10.1.0",
+    "eslint": "^9.39.2",
+    "eslint-plugin-import": "^2.32.0",
+    "eslint-plugin-simple-import-sort": "^12.1.1",
+    "eslint-plugin-unused-imports": "^4.3.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.2.7",
+    "postcss-scss": "^4.0.9",
+    "rimraf": "^6.1.2",
+    "tsc-alias": "^1.8.16",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.18"
+  },
+  "overrides": {
+    "lodash": "4.17.23",
+    "lodash-es": "4.17.23"
+  },
+  "lint-staged": {
+    "*.{ts,tsx,js,jsx}": [
+      "eslint --fix"
+    ]
+  }
+}

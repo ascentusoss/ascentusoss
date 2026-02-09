@@ -14,13 +14,9 @@
 
 <div align="center">
 
-![Visitantes](https://ascentus-oss.vercel.app/api/visitors/ascentusoss/badge.svg?label=visitantes)
-</div>
-
-<div align="center">
-  
 **Bem vindo jovem**
 
+![Visitantes](https://ascentus-oss.vercel.app/api/visitors/ascentusoss/badge.svg?label=stalker)
 </div>
 
 ---
@@ -49,9 +45,9 @@ Sou um desenvolvedor por hobby, transformando código em válvula de escape para
 
 
 </div>
- 
+
  <div align="center">
- 
+
  **Obrigado por visitar meu perfil.**
 
  </div>
@@ -59,4 +55,3 @@ Sou um desenvolvedor por hobby, transformando código em válvula de escape para
 #
 #
 #
-
