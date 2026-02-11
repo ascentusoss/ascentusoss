@@ -16,11 +16,13 @@
 
 ## 🧑‍💻 Sobre mim
 
-Olá! Sou o **Italo** um desenvolvedor por hobby transformando código em válvula de escape para minhas loucuras. Acho que é hora de dar um upgrade nesse perfil e levá-lo um pouco mais a sério — ou pelo menos fingir que estou tentando.
+Olá! Sou o **Italo**, um desenvolvedor por hobby que transforma código em válvula de escape para minhas loucuras. Acho que é hora de dar um upgrade nesse perfil e levá-lo um pouco mais a sério — ou pelo menos fingir que estou tentando.
 
-Esse perfil do GitHub agora se tornará meu laboratório de ideias. Não se trata de ego, não se trata de ter algo a provar para alguém — trata-se apenas de eu conhecer meus limites no vibe coding. Quero ver até onde eu consigo ir codando. Espero adquirir alguma experiência com essa jornada.
+Esse perfil do GitHub agora se tornará meu laboratório de ideias. Não se trata de ego, não se trata de ter algo a provar para alguém — trata-se apenas de eu conhecer meus limites no vibe coding. Quero ver até onde consigo ir codando. Espero adquirir alguma experiência com essa jornada.
 
-> Vou corrigir o bot do discord que esta quebrado e vou subir ele tambem, esse ficara a Deus dara porque nao pretendo mais usar o discord, nao pelo discord, mas por as comunidades serem extremamente hostis, o que pra mim é divertido, mas não gosto de misturar as coisas
+> Vou corrigir o bot do Discord que está quebrado e vou subir ele também. Esse ficará a Deus dará porque não pretendo mais usar o Discord — não pelo Discord em si, mas porque as comunidades são extremamente hostis, o que para mim é divertido, mas não gosto de misturar as coisas.
+
+> Vou postar 1 conteúdo no site com um método de estilo de estudo que, até onde sei, se chama repetição espaçada, para ajudar quem busca estudar. E vou postar mais um com o diagnóstico da análise. Depois vou abordar o desenvolvimento do site galeria, mas vou deixá-lo no ar que achei ele massa.
 
 <div align="center">
 
