@@ -22,6 +22,8 @@ Esse perfil do GitHub agora se tornará meu laboratório de ideias. Não se trat
 
 > Vou corrigir o bot do discord que esta quebrado e vou subir ele tambem, esse ficara a Deus dara porque nao pretendo mais usar o discord, nao pelo discord, mas por as comunidades serem extremamente hostis, o que pra mim é divertido, mas não gosto de misturar as coisas
 
+> A pergunta que não quer calar, quanto de dinheiro em tokens eu gastei pra fazer todos esses projetos, e a resposta é simples 50 reais até agora, eu nao tiro de comer pra gastar em tokens não. Eu acho que foi 50 reais ate agora.
+
 <div align="center">
 
 ![Badge Entusiasta](https://ascentus-oss.vercel.app/api/svg/badges/decorativos/badge-entusiasta.svg?width=180)
