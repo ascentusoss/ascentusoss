@@ -20,6 +20,8 @@ Olá! Sou o **Italo**, um desenvolvedor por hobby transformando código em válv
 
 Esse perfil do GitHub agora se tornará meu laboratório de ideias. Não se trata de ego, não se trata de ter algo a provar para alguém — trata-se apenas de eu conhecer meus limites no vibe coding. Quero ver até onde eu consigo ir codando. Espero adquirir alguma experiência com essa jornada.
 
+> Vou corrigir o bot do discord que esta quebrado e vou subir ele tambem, esse ficara a Deus dara porque nao pretendo mais usar o discord, nao pelo discord, mas por as comunidades serem extremamente hostis, o que pra mim é divertido, mas não gosto de misturar as coisas
+
 <div align="center">
 
 ![Badge Entusiasta](https://ascentus-oss.vercel.app/api/svg/badges/decorativos/badge-entusiasta.svg?width=180)
