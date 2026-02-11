@@ -64,9 +64,16 @@ Esse perfil do GitHub agora se tornará meu laboratório de ideias. Não se trat
 ### Backend
 <div align="center">
 
+![nodejs](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-nodejs.svg)
 ![Express](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-express.svg)
+![python](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-python.svg)
+![php](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-php.svg)
+![sql](https://ascentus-oss.vercel.app/api/svg/badges/skills/langs/badge-sql.svg)
+![mongodb](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-mongodb.svg)
+![mysql](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-mysql.svg)
 ![PostgreSQL](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-postgresql.svg)
 ![SQLite](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-sqlite.svg)
+![firebase](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-firebase.svg)
 ![Supabase](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-supabase.svg)
 
 </div>
@@ -87,6 +94,12 @@ Esse perfil do GitHub agora se tornará meu laboratório de ideias. Não se trat
 ![Git](https://ascentus-oss.vercel.app/api/svg/badges/skills/ferramentas/badge-git.svg)
 ![GitHub](https://ascentus-oss.vercel.app/api/svg/badges/skills/ferramentas/badge-github.svg)
 ![GitHub Actions](https://ascentus-oss.vercel.app/api/svg/badges/skills/ferramentas/badge-github-actions.svg)
+![docker](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-docker.svg)
+![npm](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-npm.svg)
+![eslint](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-eslint.svg)
+![prettier](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-prettier.svg)
+![vitest](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-vitest.svg)
+![vscode](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-vscode.svg)
 
 </div>
 
