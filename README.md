@@ -22,10 +22,6 @@ Esse perfil do GitHub agora se tornará meu laboratório de ideias. Não se trat
 
 > Vou corrigir o bot do Discord que está quebrado e vou subir ele também. Esse ficará a Deus dará porque não pretendo mais usar o Discord — não pelo Discord em si, mas porque as comunidades são extremamente hostis, o que para mim é divertido, mas não gosto de misturar as coisas.
 
-> Vou postar 1 conteúdo no site com um método de estilo de estudo que, até onde sei, se chama repetição espaçada, para ajudar quem busca estudar. E vou postar mais um com o diagnóstico da análise. Depois vou abordar o desenvolvimento do site galeria, mas vou deixá-lo no ar que achei ele massa.
-
-> Eu acho bom os visitantes, mas porque eu sou doente por seguir gost*** cof cof no instagram, e voce é normal por ficar me estalkeando. continua que eu gosto de ser notado.
-
 <div align="center">
 
 ![Badge Entusiasta](https://ascentus-oss.vercel.app/api/svg/badges/decorativos/badge-entusiasta.svg?width=180)
