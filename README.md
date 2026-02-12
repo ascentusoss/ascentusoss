@@ -34,6 +34,10 @@ Esse perfil do GitHub agora se tornará meu laboratório de ideias. Não se trat
 ![Badge DevOps](https://ascentus-oss.vercel.app/api/svg/badges/decorativos/badge-devops.svg?width=180)
 
 </div>
+ 
+# Vitimas da vez 👇🏽
+
+![astro](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-astro.svg)
 
 ---
 
