@@ -31,6 +31,8 @@ Esse perfil do GitHub agora se tornará meu laboratório de ideias. Não se trat
 
 </div>
  
+###### Vou dar uma olhada na documentação do astro, e depois vejo como posso mexer com ele.
+
 # Cobaia da vez 👇🏽
 
 ![astro](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-astro.svg)
