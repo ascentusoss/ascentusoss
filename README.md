@@ -20,6 +20,8 @@ Olá! Sou o **Italo**, um desenvolvedor por hobby que transforma código em vál
 
 Esse perfil do GitHub agora se tornará meu laboratório de ideias. Não se trata de ego, não se trata de ter algo a provar para alguém — trata-se apenas de eu conhecer meus limites no vibe coding. Quero ver até onde consigo ir codando. Espero adquirir alguma experiência com essa jornada.
 
+> Se voce esta se perguntando porque eu estou gastando dinheiro com coisas que estou deixando livre. é bem simples, se eu tiver gasto foi uns 56 reais, de resto com toda sinceridade eu passei a perna no github.
+
 <div align="center">
 
 ![Badge Entusiasta](https://ascentus-oss.vercel.app/api/svg/badges/decorativos/badge-entusiasta.svg?width=180)
