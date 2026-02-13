@@ -24,6 +24,8 @@ Este GitHub passa a ser meu laboratório de ideias. Não se trata de ego, nem de
 
 Quero descobrir até onde consigo ir apenas codando, seguindo a vibe e testando meus próprios limites. Se, no caminho, eu ganhar mais experiência, repertório e histórias pra contar, melhor ainda.
 
+---
+
 <div align="center">
 
 ![Badge Entusiasta](https://ascentus-oss.vercel.app/api/svg/badges/decorativos/badge-entusiasta.svg?width=180)
@@ -32,6 +34,8 @@ Quero descobrir até onde consigo ir apenas codando, seguindo a vibe e testando 
 ![Badge DevOps](https://ascentus-oss.vercel.app/api/svg/badges/decorativos/badge-devops.svg?width=180)
 
 </div>
+
+---
  
 ###### Vou dar uma olhada na documentação do astro, e depois vejo como posso mexer com ele.
 
