@@ -82,7 +82,6 @@ Quero descobrir até onde consigo ir apenas codando, seguindo a vibe e testando 
 ![Express](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-express.svg)
 ![python](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-python.svg)
 ![php](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-php.svg)
-![sql](https://ascentus-oss.vercel.app/api/svg/badges/skills/langs/badge-sql.svg)
 ![mongodb](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-mongodb.svg)
 ![mysql](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-mysql.svg)
 ![PostgreSQL](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-postgresql.svg)
