@@ -16,9 +16,13 @@
 
 ## 🧑‍💻 Sobre mim
 
-Olá! Sou o **Italo**, um desenvolvedor por hobby que transforma código em válvula de escape para minhas loucuras. Acho que é hora de dar um upgrade nesse perfil e levá-lo um pouco mais a sério — ou pelo menos fingir que estou tentando.
+Olá! Eu sou o Ítalo, um desenvolvedor por hobby transformando código em válvula de escape para minhas loucurias.
 
-Esse perfil do GitHub agora se tornará meu laboratório de ideias. Não se trata de ego, não se trata de ter algo a provar para alguém — trata-se apenas de eu conhecer meus limites no vibe coding. Quero ver até onde consigo ir codando. Espero adquirir alguma experiência com essa jornada.
+Chegou a hora de dar um upgrade neste perfil e levá-lo um pouco mais a sério — ou pelo menos fingir que estou tentando.
+
+Este GitHub passa a ser meu laboratório de ideias. Não se trata de ego, nem de provar algo para alguém. A proposta aqui é simples: vibe coding. Codar no fluxo, experimentar, errar, aprender e explorar possibilidades sem pressão.
+
+Quero descobrir até onde consigo ir apenas codando, seguindo a vibe e testando meus próprios limites. Se, no caminho, eu ganhar mais experiência, repertório e histórias pra contar, melhor ainda.
 
 <div align="center">
 
