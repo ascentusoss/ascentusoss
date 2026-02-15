@@ -24,7 +24,6 @@ Este GitHub passa a ser meu laboratório de ideias. Não se trata de ego, nem de
 
 Quero descobrir até onde consigo ir apenas codando, seguindo a vibe e testando meus próprios limites. Se, no caminho, eu ganhar mais experiência, repertório e histórias pra contar, melhor ainda.
 
-> Se alguém tiver clonado algum repo e tiver dando erro no npm install é porque o oraculo esta em uma versão nas dependências e o repo clonado em outra versão. depois eu arrumo isso.
 ---
 
 <div align="center">
